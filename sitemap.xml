@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mssh.dev/projects/</loc>
+    <lastmod>2022-05-20T18:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mssh.dev/math/</loc>
+    <lastmod>2022-03-29T18:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mssh.dev/misc/</loc>
+    <lastmod>2022-03-29T18:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mssh.dev/</loc>
+    <lastmod>2022-03-29T18:45:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mssh.dev/misc/2020-10-22-tools/</loc>
+    <lastmod>2020-10-22T18:34:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mssh.dev/math/2020-08-27-random-thoughts/</loc>
+    <lastmod>2020-08-27T18:34:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mssh.dev/categories/</loc>
+  </url><url>
+    <loc>https://mssh.dev/tags/</loc>
+  </url>
+</urlset>
