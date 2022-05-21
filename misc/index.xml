@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Misc on Manuel</title>
+    <title>Misc on MSSH</title>
     <link>https://mssh.dev/misc/</link>
-    <description>Recent content in Misc on Manuel</description>
+    <description>Recent content in Misc on MSSH</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
     <lastBuildDate>Tue, 29 Mar 2022 18:55:10 +0200</lastBuildDate><atom:link href="https://mssh.dev/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My current tech stack</title>
       <link>https://mssh.dev/misc/2020-10-22-tools/</link>
-      <pubDate>Thu, 22 Oct 2020 18:34:10 +0200</pubDate>
+      <pubDate>Sat, 21 May 2022 08:34:10 +0200</pubDate>
       
       <guid>https://mssh.dev/misc/2020-10-22-tools/</guid>
       <description>These are just my choices, not endorsements of the product/company/person.
-OS  Windows 10 with WSL 2: Ubuntu (20.04.1 LTS)  Tools  Windows Terminal OneNote: for handwritten notes Obsidian: structured/rehearsal notes, Media db Chrono: documenting and analyzing my habits Whatsapp (Desktop version) Google Chrome fast_template: mssh.dev Github (Website + Desktop): Hosting mssh.dev, version-control  Languages / Editors  VS Code: Editor Texmaker: Editor (LaTeX) python(3.8): Language of choice for most projects Haskell: Language of choice for functional / math related projects / testing of potential counterexamples (math) javascript with p5.</description>
+OS  Windows 10 with WSL 2: Ubuntu (20.04.1 LTS)  Tools  Windows Terminal OneNote: for handwritten notes Obsidian: structured/rehearsal notes, Media db Chrono: documenting and analyzing my habits Whatsapp (Desktop version) Google Chrome Hugo: mssh.dev Github (Website + Desktop): Hosting mssh.dev, version-control  Languages / Editors  VS Code: Editor Texmaker: Editor (LaTeX) python(3.8): Language of choice for most projects javascript with p5.</description>
     </item>
     
   </channel>

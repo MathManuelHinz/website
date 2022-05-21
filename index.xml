@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Manuel</title>
+    <title>Home on MSSH</title>
     <link>https://mssh.dev/</link>
-    <description>Recent content in Home on Manuel</description>
+    <description>Recent content in Home on MSSH</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
     <lastBuildDate>Tue, 29 Mar 2022 18:45:10 +0200</lastBuildDate><atom:link href="https://mssh.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My current tech stack</title>
       <link>https://mssh.dev/misc/2020-10-22-tools/</link>
-      <pubDate>Thu, 22 Oct 2020 18:34:10 +0200</pubDate>
+      <pubDate>Sat, 21 May 2022 08:34:10 +0200</pubDate>
       
       <guid>https://mssh.dev/misc/2020-10-22-tools/</guid>
       <description>These are just my choices, not endorsements of the product/company/person.
-OS  Windows 10 with WSL 2: Ubuntu (20.04.1 LTS)  Tools  Windows Terminal OneNote: for handwritten notes Obsidian: structured/rehearsal notes, Media db Chrono: documenting and analyzing my habits Whatsapp (Desktop version) Google Chrome fast_template: mssh.dev Github (Website + Desktop): Hosting mssh.dev, version-control  Languages / Editors  VS Code: Editor Texmaker: Editor (LaTeX) python(3.8): Language of choice for most projects Haskell: Language of choice for functional / math related projects / testing of potential counterexamples (math) javascript with p5.</description>
-    </item>
-    
-    <item>
-      <title>Random thoughts[1]: The relation between proper folds and monoids</title>
-      <link>https://mssh.dev/math/2020-08-27-random-thoughts/</link>
-      <pubDate>Thu, 27 Aug 2020 18:34:10 +0200</pubDate>
-      
-      <guid>https://mssh.dev/math/2020-08-27-random-thoughts/</guid>
-      <description>What is a folding? A lot of programming languages have a built-in function similar to Haskells fold(l/r). While the specifics vary between different languages, the general idea is to apply a binary operation to the elements of some iterable / recursive data structure, thereby &amp;ldquo;combining&amp;rdquo; the elements to a new object. A typical signature of such a function looks similar to the type of foldl in Haskell:
-foldl :: Foldable t =&amp;gt; (b -&amp;gt; a -&amp;gt; b) -&amp;gt; b -&amp;gt; t a -&amp;gt; b A common use case of foldl would lead to the following:</description>
+OS  Windows 10 with WSL 2: Ubuntu (20.04.1 LTS)  Tools  Windows Terminal OneNote: for handwritten notes Obsidian: structured/rehearsal notes, Media db Chrono: documenting and analyzing my habits Whatsapp (Desktop version) Google Chrome Hugo: mssh.dev Github (Website + Desktop): Hosting mssh.dev, version-control  Languages / Editors  VS Code: Editor Texmaker: Editor (LaTeX) python(3.8): Language of choice for most projects javascript with p5.</description>
     </item>
     
   </channel>
