@@ -7,14 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
     <lastBuildDate>Wed, 27 Jul 2022 18:55:10 +0200</lastBuildDate><atom:link href="https://mssh.dev/math/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The center of Germany</title>
-      <link>https://mssh.dev/math/mog/</link>
-      <pubDate>Fri, 07 Oct 2022 18:00:00 +0200</pubDate>
-      
-      <guid>https://mssh.dev/math/mog/</guid>
-      <description>The Problem A few days ago a friend told me that multiple cities claim to be the &amp;ldquo;center&amp;rdquo; of Germany. I was very confused, because for me the projection of the average point to germany was the obvious choice. My idea was, that such a &amp;ldquo;center&amp;rdquo; would minimize the integral over Germany of the distance between the center and points \(p\) of Germany. I was wrong. Even though I was wrong, I still think the problem was fun to think about.</description>
-    </item>
-    
   </channel>
 </rss>
