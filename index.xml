@@ -6,33 +6,34 @@
     <description>Recent content in Home on MSSH</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 29 Mar 2022 18:45:10 +0200</lastBuildDate><atom:link href="https://mssh.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 12:00:10 +0200</lastBuildDate><atom:link href="https://mssh.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommended content</title>
       <link>https://mssh.dev/misc/recommendations/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Mar 2023 12:00:10 +0200</pubDate>
       
       <guid>https://mssh.dev/misc/recommendations/</guid>
-      <description>Math Discrete Differential Geometry by Keenan Crane 3Blue1Brown Timothy Gowers: Thought process of a great mathematician Weitz: German math videos (mostly from the C.S. perspective) by Prof. Dr. Edmund Weitz Introduction to graph theory by Richard J. Trudeau Algebra: Chappter 0 by Aluffi Computer Science Missing Semester: C.S. basics Programming in Scala by Odersky, Spoon and Venners Tools Intro to Latex by Dr. Trefor Bazett </description>
-    </item>
-    
-    <item>
-      <title>Infos über mein Wintersemester 22/23 (German)</title>
-      <link>https://mssh.dev/misc/current_classes/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mssh.dev/misc/current_classes/</guid>
-      <description>Ich höre gerade folgende Vorlesungen: Computer Science Intelligente Sehsysteme Math Einführung in die Grundlagen der Numerik Sonstiges Außerdem besuche ich Grundzüge der Analysis und Geometrie auf Mannigfaltigkeiten (allerdings ohne Tutorien / Abgaben / Klausur und nur so lange ich das zeitlich schaffe), tutoriere Grundlagen der Robotik und schreibe meine Bachelorarbeit.</description>
+      <description>Math Discrete Differential Geometry by Keenan Crane 3Blue1Brown Timothy Gowers: Thought process of a great mathematician Weitz: German math videos (mostly from the C.S. perspective) by Prof. Dr. Edmund Weitz Introduction to graph theory by Richard J. Trudeau Algebra: Chappter 0 by Aluffi Laplace-Beltrami Operator / Bachelor thesis Shape DNA Paper by Reuter et al. Riemannian Geometry and Geometric Analysis by Jost Dolfinx Tutorial by J.S. Dokken Automated Solution of Differential Equations by the Finite Element Method: The FEniCS book The Mathematical Theory of Finite Element Methods by Brenner / Scott Manifolds by Lee Introduction to Smooth Manifolds Introduction to Riemannian Manifolds Content for my tutorials (German) All diese Quellen sind von mir persönlich und nicht den Dozenten empfohlen!</description>
     </item>
     
     <item>
       <title>My current tech stack</title>
       <link>https://mssh.dev/misc/tools/</link>
-      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Mar 2023 12:00:00 +0200</pubDate>
       
       <guid>https://mssh.dev/misc/tools/</guid>
-      <description>Only a list of software i&amp;rsquo;m using, not endorsements of the product/company/person.
-OS Windows 11 Tools Windows Terminal OneNote: for handwritten notes Xournal++: for handwritten notes One by wacom Obsidian: structured/rehearsal notes, Media db Chrono: documenting and analyzing my habits Whatsapp (Desktop version) Google Chrome Hugo: mssh.dev Github (Website + Desktop): Hosting mssh.dev, version-control Languages / Editors VS Code: Editor Texmaker: Editor (LaTeX) python(3.8): Language of choice for most projects javascript with p5.</description>
+      <description>A list of software i&amp;rsquo;m using, not endorsements of the product/company/person.
+OS Windows 11 / Ubuntu Tools Windows Terminal OneNote: for handwritten notes Xournal++: for handwritten notes One by wacom Obsidian: structured/rehearsal notes Chrono: documenting and analyzing my habits Whatsapp (Desktop) Google Chrome Hugo: mssh.dev Github (Website + Desktop): Hosting mssh.dev, version-control Zotero: Organizing my bachelor thesis / bibliography Languages / Editors VS Code: Editor python(3.8): Language of choice for most projects javascript with p5.</description>
+    </item>
+    
+    <item>
+      <title>Infos über mein Sommersemester 23 (German)</title>
+      <link>https://mssh.dev/misc/current_classes/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mssh.dev/misc/current_classes/</guid>
+      <description>Ich höre gerade folgende Vorlesungen: Computer Science Intelligente Sehsysteme Math Einführung in die Grundlagen der Numerik Tutorien Ich tutoriere diese Semester
+Analysis für Informatiker für Dr. Welter Angewandte Mathematik: Stochastik für Prof. Dr. Klein Materialien findet ihr ggf. hier</description>
     </item>
     
   </channel>
