@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mssh.dev/math/</loc>
+    <lastmod>2025-07-06T18:55:10+02:00</lastmod>
+  </url><url>
     <loc>https://mssh.dev/</loc>
     <lastmod>2023-03-11T12:00:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mssh.dev/math/</loc>
-    <lastmod>2022-07-27T18:55:10+02:00</lastmod>
   </url><url>
     <loc>https://mssh.dev/misc/</loc>
     <lastmod>2022-03-29T18:55:10+02:00</lastmod>
